@@ -200,7 +200,7 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:snap-bbox="true"
-     inkscape:snap-grids="false"
+     inkscape:snap-grids="true"
      inkscape:snap-nodes="true"
      inkscape:object-paths="false"
      inkscape:snap-midpoints="true">
@@ -991,6 +991,26 @@
            x="739.37109"
            id="tspan8073"
            sodipodi:role="line">Return</tspan></text>
+    </g>
+    <g
+       id="g4365"
+       transform="translate(0,20)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3323"
+         d="m 674,372.36218 25,0 0,0"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Mend)" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4361"
+         y="370.03677"
+         x="670.58594"
+         style="font-size:8px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="370.03677"
+           x="670.58594"
+           id="tspan4363"
+           sodipodi:role="line">Event</tspan></text>
     </g>
   </g>
 </svg>
