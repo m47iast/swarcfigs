@@ -178,6 +178,20 @@
          style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
          transform="matrix(-0.4,0,0,-0.4,-4,0)" />
     </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-8"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4120-2"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)" />
+    </marker>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -186,9 +200,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.1692064"
-     inkscape:cx="526.18109"
-     inkscape:cy="372.04724"
+     inkscape:zoom="4.2207864"
+     inkscape:cx="756.06842"
+     inkscape:cy="630.76975"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -1011,6 +1025,61 @@
            x="670.58594"
            id="tspan4363"
            sodipodi:role="line">Event</tspan></text>
+    </g>
+    <g
+       transform="translate(0.5,-82.401022)"
+       id="g7058-4">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6643-5"
+         d="m 715,482.36218 68.24983,0 0,0"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Mend)" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text7054-5"
+         y="480.32422"
+         x="733.16602"
+         style="font-size:8px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="480.32422"
+           x="733.16602"
+           id="tspan7056-1"
+           sodipodi:role="line">Message</tspan></text>
+    </g>
+    <g
+       id="g5843">
+      <g
+         transform="matrix(0.2,0,0,0.2,637,348.88975)"
+         id="g5834">
+        <rect
+           style="fill:none"
+           y="442.36218"
+           x="865"
+           height="50"
+           width="50"
+           id="rect3" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-miterlimit:10;stroke-dasharray:none"
+           inkscape:connector-curvature="0"
+           d="m 890,452.36218 v -9 c 13.256,0 24,10.745 24,24 0,13.256 -10.744,24 -24,24 -13.256,0 -24,-10.744 -24,-24 0,-6.624 2.684,-12.622 7.022,-16.965"
+           stroke-miterlimit="10"
+           id="path5" />
+        <path
+           inkscape:connector-curvature="0"
+           d="m 892.121,469.48418 c -1.171,1.171 -3.07,1.172 -4.242,0 -1.172,-1.172 -10.417,-14.66 -10.417,-14.66 0,0 13.487,9.245 14.659,10.417 1.172,1.172 1.172,3.072 0,4.243 z"
+           id="path7" />
+      </g>
+      <text
+         sodipodi:linespacing="125%"
+         id="text5839"
+         y="445.10168"
+         x="821.54321"
+         style="font-size:8px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="445.10168"
+           x="821.54321"
+           id="tspan5841"
+           sodipodi:role="line">Timer</tspan></text>
     </g>
   </g>
 </svg>
