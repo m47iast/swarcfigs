@@ -232,6 +232,19 @@
          stdDeviation="2.9506306"
          id="feGaussianBlur4612" />
     </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4700"
+       x="-0.04624483"
+       width="1.0924897"
+       y="-0.029471125"
+       height="1.0589423">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.67443713"
+         id="feGaussianBlur4702" />
+    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -241,8 +254,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.1960847"
-     inkscape:cx="407.04237"
-     inkscape:cy="372.04724"
+     inkscape:cx="526.18108"
+     inkscape:cy="372.04723"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -1197,6 +1210,27 @@
            x="92.442711"
            id="tspan4616"
            sodipodi:role="line">Cloud</tspan></text>
+    </g>
+    <g
+       style="fill:#0000ff"
+       id="g4716"
+       transform="translate(86.040653,40.966982)">
+      <g
+         transform="translate(-63.540653,-40.967)"
+         id="g4556">
+        <path
+           sodipodi:nodetypes="ccccccc"
+           inkscape:connector-curvature="0"
+           id="path4639"
+           d="M 295.15876,757.6012 310,732.3622 l -5,0 25.16049,-29.68422 L 315,732.3622 l 5,0 z"
+           style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ffff00;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter4700)" />
+        <path
+           sodipodi:nodetypes="ccccccc"
+           inkscape:connector-curvature="0"
+           id="path4639-7"
+           d="M 295.15876,757.60118 310,732.36218 l -5,0 25.16049,-29.68422 L 315,732.36218 l 5,0 z"
+           style="opacity:1;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      </g>
     </g>
   </g>
 </svg>
